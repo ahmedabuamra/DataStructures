@@ -1,3 +1,13 @@
+/*
+http://codeforces.com/contest/766/problem/D
+n, m, q: number of words, number of relations, number of queries
+1 means the same
+2 means the opposite
+3 means no relation
+"YES" means abled to set the realtion
+"NO" means it's immposible to set such relation
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int size[1000000],par[1000000];
